@@ -1,0 +1,2 @@
+export SKLEARN_ALLOW_DEPRECATED_SKLEARN_PACKAGE_INSTALL=True
+pip3 install -r requirements.txt
